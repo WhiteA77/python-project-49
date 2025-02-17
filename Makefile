@@ -10,7 +10,7 @@ build:
 package-install:
 	uv tool install dist/*.whl
 
-make lint:
-	uv run ruff check brain_games
+lint:
+	uv run ruff check brain_games --fix
 
 .PHONY: install brain-games build package-install make lint
