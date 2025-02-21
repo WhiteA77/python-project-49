@@ -2,7 +2,7 @@
 name = "hexlet-code"
 version = "0.1.0"
 description = "Brain games"
-authors = ["WhiteA77 <first_project@easy.com>"]
+authors = [{name = "WhiteA77", email = "first_project@easy.com"}]
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
