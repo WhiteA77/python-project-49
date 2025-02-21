@@ -5,6 +5,4 @@ __pycache__
 *.swp
 *.egg-info
 *.pyc
-.coverage
-coverage.xml
 *_cache/
